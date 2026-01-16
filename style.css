@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  padding: 20px;
+}
+
+.product-card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+img {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 6px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 12px;
+  background: green;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
